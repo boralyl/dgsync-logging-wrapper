@@ -18,10 +18,11 @@ Setup
 
 Example Configuration
 ---------------------
-LOG_FILE = "/home/user/bin/log/syncs3.log"
-DGTOOLS_ACCESS_KEY = "Your_Amazon_Access_Key"
-DGTOOLS_SECRET_KEY = "Your_Amazon_Secret_Key"
-BUCKETS = {
-    "s3://my-bucket/Videos/": "/home/user/Videos",
-    "s3://my-bucket/Pictures/": "/home/user/Pictures",
-}
+> LOG_FILE = "/home/user/bin/log/syncs3.log"
+> DGTOOLS_ACCESS_KEY = "Your_Amazon_Access_Key"
+> DGTOOLS_SECRET_KEY = "Your_Amazon_Secret_Key"
+> BUCKETS = {
+>     "s3://my-bucket/Videos/": "/home/user/Videos",
+>     "s3://my-bucket/Pictures/": "/home/user/Pictures",
+> }
+
